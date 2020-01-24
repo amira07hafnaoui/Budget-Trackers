@@ -6,12 +6,12 @@ The app is can also function offline.
 # Features
 Offline Functionality:
 
-Enter deposits offline
-Enter expenses offline
+  * Enter deposits offline
+  * Enter expenses offline
 
 When brought back online:
 
-Offline entries should be added to tracker.
+  * Offline entries should be added to tracker.
 
  Live site : https://budget-tracker07.herokuapp.com/
   
